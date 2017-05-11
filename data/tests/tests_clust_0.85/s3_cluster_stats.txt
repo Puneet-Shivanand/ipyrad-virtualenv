@@ -1,0 +1,3 @@
+Empty DataFrame
+Columns: []
+Index: [gbs_example, pairddrad_example, pairddrad_example_R2_, pairddrad_wmerge_example, pairddrad_wmerge_example_R2_, pairgbs_example, pairgbs_example_R2_, pairgbs_wmerge_example, pairgbs_wmerge_example_R2_, rad_example]
